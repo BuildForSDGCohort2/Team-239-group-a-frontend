@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Team-239-group-a-frontend/static/css/main.7fbb3a77.chunk.css",
+    "main.js": "/Team-239-group-a-frontend/static/js/main.ac208381.chunk.js",
+    "main.js.map": "/Team-239-group-a-frontend/static/js/main.ac208381.chunk.js.map",
+    "runtime-main.js": "/Team-239-group-a-frontend/static/js/runtime-main.2c24259f.js",
+    "runtime-main.js.map": "/Team-239-group-a-frontend/static/js/runtime-main.2c24259f.js.map",
+    "static/css/2.11829350.chunk.css": "/Team-239-group-a-frontend/static/css/2.11829350.chunk.css",
+    "static/js/2.11e4f58c.chunk.js": "/Team-239-group-a-frontend/static/js/2.11e4f58c.chunk.js",
+    "static/js/2.11e4f58c.chunk.js.map": "/Team-239-group-a-frontend/static/js/2.11e4f58c.chunk.js.map",
+    "index.html": "/Team-239-group-a-frontend/index.html",
+    "precache-manifest.a7f84beab1bec2a2362565c5a7e488bd.js": "/Team-239-group-a-frontend/precache-manifest.a7f84beab1bec2a2362565c5a7e488bd.js",
+    "service-worker.js": "/Team-239-group-a-frontend/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Team-239-group-a-frontend/static/css/2.11829350.chunk.css.map",
+    "static/css/main.7fbb3a77.chunk.css.map": "/Team-239-group-a-frontend/static/css/main.7fbb3a77.chunk.css.map",
+    "static/js/2.11e4f58c.chunk.js.LICENSE.txt": "/Team-239-group-a-frontend/static/js/2.11e4f58c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c24259f.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.11e4f58c.chunk.js",
+    "static/css/main.7fbb3a77.chunk.css",
+    "static/js/main.ac208381.chunk.js"
+  ]
+}
