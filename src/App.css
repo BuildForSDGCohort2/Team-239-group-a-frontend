@@ -1,11 +1,106 @@
 .App {
   text-align: center;
+  color: white;
+ 
+}
+.navbar-brand{
+  color: white;
+}
+.nav-link{
+  color: white;
+}
+nav{
+  background-color: burlywood;
+}
+.scrolled{
+  background-color: burlywood;
+  transition: 0.4s;
+}
+.fa {
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 20px;
 }
 
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-instagram {
+  background: #404e90;
+  color: white;
+}
+
+.fa-twitter {
+  background: #3980dd;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3980dd;
+  color: white;
+}
+ a{
+   text-decoration: none;
+ }
+ .nav-link{
+   color: black;
+ }
+ .navbar-brand{
+   color: black;
+ }
+ .menui {
+  display: inline-block;
+  cursor: pointer;
+}
+.bar1{
+  width: 15px;
+  height: 2px;
+  background-color: rgb(12, 12, 11);
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.bar2, .bar3 {
+  width: 15px;
+  height: 2px;
+  background-color: rgb(15, 15, 15);
+  margin: 6px;
+  transition: 0.4s;
+}
+
+form{
+  margin-top: 20px;
+  background-color: white;
+  background-blend-mode: hue !important;
+  width: 100%;
+  text-align: center;
+  align-content: center;
+  border-radius: 5px;
+  color: #282c34;
+  opacity: .9;
+  box-shadow: 8px 8px white;
+}
+.formhead{
+  margin-top: 5px;
+  color:black;
+  font-family: 'Gayathri', sans-serif;
+}
+
+.footer{
+  background-color:  burlywood;
+  color: #282c34;
+  margin-top: 50px;
+  height: 20vh;
+  margin-bottom: 0px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -14,7 +109,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  margin-top: 50px;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +117,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.head{
+  margin-top: 20px;
+  font-family: 'Gayathri', sans-serif;
 }
 
 .App-link {
@@ -35,4 +134,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+body{
+  background-color: #282c34;
+  background-blend-mode: multiply !important;
+  background-image: url("https://images.unsplash.com/photo-1471193945509-9ad0617afabf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Courier New', Courier, monospace;
 }

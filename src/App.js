@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
+import Landlogpage from './components/landlogPage'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from './components/Footer'
 
 function App() {
   return (
     <div className="App">
-      <h2>Team 239 A: Shoku App</h2>
+      <Landlogpage />
+      <Footer />
     </div>
   );
 }
